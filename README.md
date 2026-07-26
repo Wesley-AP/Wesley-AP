@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 💻 About Me
 
 | | |
 |-|-|
@@ -44,10 +44,10 @@ My focus is to continuously improve my skills by building real-world application
 
 | Technology | Purpose |
 |-|-|
-| ⚛️ React | User interfaces |
-| 📘 TypeScript | Type-safe applications |
-| 🎨 HTML / CSS | Web structure and styling |
-| ⚡ Vite | Modern frontend tooling |
+|  React | User interfaces |
+|  TypeScript | Type-safe applications |
+|  HTML / CSS | Web structure and styling |
+|  Vite | Modern frontend tooling |
 
 ---
 
@@ -55,11 +55,11 @@ My focus is to continuously improve my skills by building real-world application
 
 | Technology | Purpose |
 |-|-|
-| 🟢 Node.js | Backend applications |
-| 🚂 Express.js | REST APIs |
-| 🐘 PostgreSQL | Relational databases |
-| 🍃 MongoDB | NoSQL databases |
-| 🔐 REST API | Application communication |
+|  Node.js | Backend applications |
+|  Express.js | REST APIs |
+|  PostgreSQL | Relational databases |
+|  MongoDB | NoSQL databases |
+|  REST API | Application communication |
 
 ---
 
@@ -82,7 +82,7 @@ My focus is to continuously improve my skills by building real-world application
 <tr>
 <td width="50%">
 
-## 🚗 Rent Car Management System
+##  Rent Car Management System
 
 A management system designed to handle vehicle rentals, customers, reservations, and business operations.
 
@@ -102,7 +102,7 @@ Docker
 
 <td width="50%">
 
-## 🍽 Restaurant Management System
+##  Restaurant Management System
 
 A system focused on managing restaurant operations, including products, orders, and administrative processes.
 
@@ -161,8 +161,8 @@ Clean Code Principles
 
 | Platform | Link |
 |-|-|
-| LinkedIn | Coming soon |
-| Email | your.email@example.com |
+| LinkedIn | linkedin.com/in/wesley-a-paulino-a29337380 |
+| Email | wesley.paulino.sys@gmail.com |
 | GitHub | https://github.com/Wesley-AP |
 
 ---
