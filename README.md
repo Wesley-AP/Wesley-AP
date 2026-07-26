@@ -119,9 +119,10 @@ PostgreSQL
 
 </td>
 </tr>
-</table>
 
-##  Restaurant Management System
+<td width="50%">
+
+##  Property Management System
 
 A system focused on managing restaurant operations, including products, orders, and administrative processes.
 
@@ -138,7 +139,12 @@ PostgreSQL
 
 </td>
 </tr>
+
+
 </table>
+
+
+
 
 ---
 
