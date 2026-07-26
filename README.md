@@ -82,30 +82,6 @@ My focus is to continuously improve my skills by building real-world application
 <tr>
 <td width="50%">
 
-##  Property Management System
-
-A management system designed to handle .
-
-### Technologies
-
-```
-React
-TypeScript
-Node.js
-PostgreSQL
-Docker
-```
-
-🔗 Repository: Coming soon
-
-</td>
-
-<td width="50%">
-
-<table>
-<tr>
-<td width="50%">
-
 ##  Rent Car Management System
 
 A management system designed to handle vehicle rentals, customers, reservations, and business operations.
@@ -125,6 +101,25 @@ Docker
 </td>
 
 <td width="50%">
+
+##  Restaurant Management System
+
+A system focused on managing restaurant operations, including products, orders, and administrative processes.
+
+### Technologies
+
+```
+React
+TypeScript
+Supabase
+PostgreSQL
+```
+
+🔗 Repository: Coming soon
+
+</td>
+</tr>
+</table>
 
 ##  Restaurant Management System
 
