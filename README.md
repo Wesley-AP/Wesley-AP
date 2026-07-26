@@ -76,7 +76,31 @@ My focus is to continuously improve my skills by building real-world application
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+##  Property Management System
+
+A management system designed to handle .
+
+### Technologies
+
+```
+React
+TypeScript
+Node.js
+PostgreSQL
+Docker
+```
+
+🔗 Repository: Coming soon
+
+</td>
+
+<td width="50%">
 
 <table>
 <tr>
