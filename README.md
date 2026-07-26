@@ -122,30 +122,7 @@ PostgreSQL
 
 <td width="50%">
 
-##  Property Management System
-
-A system focused on managing restaurant operations, including products, orders, and administrative processes.
-
-### Technologies
-
-```
-React
-TypeScript
-Supabase
-PostgreSQL
-```
-
-🔗 Repository: Coming soon
-
-</td>
-</tr>
-
-
 </table>
-
-
-
-
 ---
 
 # 📈 Current Goals
