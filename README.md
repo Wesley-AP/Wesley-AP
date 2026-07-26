@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wesley Paulino
+# Hi, I'm Wesley Paulino
 
 <div align="center">
 
