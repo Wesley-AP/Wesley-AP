@@ -13,8 +13,10 @@
 <br><br>
 
 <!-- ESTADÍSTICAS (Reemplaza YOUR_GITHUB_USERNAME con tu usuario real) -->
+
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Wesley-AP"/>
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-AP&layout=compact"/>
+
 </div>
 
 <br>
