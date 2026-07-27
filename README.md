@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<h1>Hi, I'm Wesley Paulino 👋 <img src="https://komarev.com/ghpvc/?username=Wesley-AP&color=blue&style=flat-square&label=Profile+Views" align="center" alt="Profile Views" /></h1>
+<h1>Hi, I'm Wesley Paulino  <img src="https://komarev.com/ghpvc/?username=Wesley-AP&color=blue&style=flat-square&label=Profile+Views" align="center" alt="Profile Views" /></h1>
 
 ### 💻 Computer Systems Engineering Student | Backend Developer
 *"Building solutions through code, learning through every project."*
@@ -13,8 +13,8 @@
 <br><br>
 
 <!-- ESTADÍSTICAS (Reemplaza YOUR_GITHUB_USERNAME con tu usuario real) -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" width="48%" alt="GitHub Streak" />
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Wesley-AP"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-AP&layout=compact"/>
 
 </div>
 
