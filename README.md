@@ -95,7 +95,8 @@
 <h3>QA</h3>
 
 <div width="100%">
-<!-- <img src="" /> -->
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" /> 
 </div>
 
 </td>
