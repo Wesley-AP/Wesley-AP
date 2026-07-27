@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<h1>Hi, I'm Wesley Paulino 👋 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square&label=Profile+Views" align="center" alt="Profile Views" /></h1>
+<h1>Hi, I'm Wesley Paulino 👋 <img src="https://komarev.com/ghpvc/?Wesley-AP&color=blue&style=flat-square&label=Profile+Views" align="center" alt="Profile Views" /></h1>
 
 ### 💻 Computer Systems Engineering Student | Backend Developer
 *"Building solutions through code, learning through every project."*
