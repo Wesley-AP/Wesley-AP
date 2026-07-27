@@ -118,6 +118,9 @@
 
 A management system designed to handle vehicle rentals, customers, reservations, and business operations.
 
+> [!NOTE]
+> AI-Free Project
+
 <!-- <img src="https://via.placeholder.com/600x300?text=Rent+Car+System" width="100%" /> -->
 
 🔗 Repository: Coming soon
