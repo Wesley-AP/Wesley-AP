@@ -33,9 +33,7 @@
 <h3>Main</h3>
 
 <div width="100%">
-<img src="https://img.shields.io/badge/Problem_Solving-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/System_Thinking-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Clean_Code-black?style=for-the-badge" />
+<img src="" />
 </div>
 
 </td>
@@ -81,7 +79,7 @@
 
 <td>
 
-<h3>CI/CD</h3>
+<h3>DevOps</h3>
 
 <div width="100%">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
@@ -94,8 +92,7 @@
 <h3>QA</h3>
 
 <div width="100%">
-<img src="https://img.shields.io/badge/Manual_Testing-grey?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Test_Cases-grey?style=for-the-badge" />
+<img src="" />
 </div>
 
 </td>
