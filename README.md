@@ -13,9 +13,10 @@
 <br><br>
 
 <!-- ESTADÍSTICAS (Reemplaza YOUR_GITHUB_USERNAME con tu usuario real) -->
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Wesley-AP"/>
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-AP&layout=compact"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wesley-AP&show_icons=true&theme=tokyonight&cache_seconds=86400" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-AP&layout=compact&theme=tokyonight&cache_seconds=86400" width="48%" />
+</p>
 </div>
 
 <br>
