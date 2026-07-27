@@ -1,11 +1,11 @@
-<div align="center">
+<div align="center"> 
 
-# Hi, I'm Wesley Paulino 👋 &nbsp; [![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square&label=Profile+Views)](https://github.com/YOUR_GITHUB_USERNAME)
+<h1>Hi, I'm Wesley Paulino 👋 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square&label=Profile+Views" align="center" alt="Profile Views" /></h1>
 
 ### 💻 Computer Systems Engineering Student | Backend Developer
 *"Building solutions through code, learning through every project."*
 
-<!-- CONTACTOS (Reemplaza los enlaces y los usuarios) -->
+<!-- CONTACTOS (Reemplaza los enlaces) -->
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:wesley.paulino.sys@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
@@ -24,57 +24,62 @@
 
 ## 🛠️ Tech Stack
 
+<!-- Fila 1 de Cartas -->
 <table align="center" width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">📌 Main</h3>
-      <ul>
-        <li>JavaScript / TypeScript</li>
-        <li>Python</li>
-        <li>SQL</li>
-      </ul>
+    <td width="30%" align="center">
+      <h3>Main <font color="#8a8a8a">Stack</font></h3>
+      <br>
+      JavaScript / TypeScript<br>
+      Python<br>
+      SQL
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🌱 Learning</h3>
-      <ul>
-        <li>System Design</li>
-        <li>Cloud Infrastructure</li>
-        <li>Clean Architecture</li>
-      </ul>
+    <td width="5%"></td> <!-- Separador -->
+    <td width="30%" align="center">
+      <h3>Learning <font color="#8a8a8a">Tech</font></h3>
+      <br>
+      System Design<br>
+      Cloud Infrastructure<br>
+      Clean Architecture
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">⚙️ Backend</h3>
-      <ul>
-        <li>Node.js / Express</li>
-        <li>PostgreSQL / MySQL</li>
-        <li>Docker</li>
-      </ul>
+    <td width="5%"></td> <!-- Separador -->
+    <td width="30%" align="center">
+      <h3>Backend <font color="#8a8a8a">Dev</font></h3>
+      <br>
+      Node.js / Express<br>
+      PostgreSQL / MySQL<br>
+      Docker
     </td>
   </tr>
+</table>
+
+<br>
+
+<!-- Fila 2 de Cartas -->
+<table align="center" width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🖥️ Frontend</h3>
-      <ul>
-        <li>React</li>
-        <li>HTML / CSS</li>
-        <li>Vite</li>
-      </ul>
+    <td width="30%" align="center">
+      <h3>Frontend <font color="#8a8a8a">Dev</font></h3>
+      <br>
+      React<br>
+      HTML / CSS<br>
+      Vite
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🚀 CI/CD</h3>
-      <ul>
-        <li>Git / GitHub</li>
-        <li>GitHub Actions</li>
-        <li>Linux</li>
-      </ul>
+    <td width="5%"></td> <!-- Separador -->
+    <td width="30%" align="center">
+      <h3>CI/CD <font color="#8a8a8a">Ops</font></h3>
+      <br>
+      Git / GitHub<br>
+      GitHub Actions<br>
+      Linux
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🧪 QA</h3>
-      <ul>
-        <li>Jest / Vitest</li>
-        <li>Cypress</li>
-        <li>Postman</li>
-      </ul>
+    <td width="5%"></td> <!-- Separador -->
+    <td width="30%" align="center">
+      <h3>QA <font color="#8a8a8a">Testing</font></h3>
+      <br>
+      Jest / Vitest<br>
+      Cypress<br>
+      Postman
     </td>
   </tr>
 </table>
@@ -87,7 +92,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="48%" valign="top">
       <h3>🚗 Rent Car Management</h3>
       <p>A management system designed to handle vehicle rentals, customers, reservations, and business operations.</p>
       <div align="center">
@@ -103,7 +108,8 @@
         <a href="YOUR_REPO_LINK">🔗 Repository</a> | <a href="YOUR_LIVE_LINK">🌐 Live Demo</a>
       </div>
     </td>
-    <td width="50%" valign="top">
+    <td width="4%"></td> <!-- Separador para las cartas de proyectos -->
+    <td width="48%" valign="top">
       <h3>🍽️ Restaurant Management</h3>
       <p>A system focused on managing restaurant operations, including products, orders, and administrative processes.</p>
       <div align="center">
