@@ -29,21 +29,26 @@
 <tr>
 
 <td width="33%">
-
 ##  Main
-
+  <span>
+     <img src="">
+  </span>
 </td>
 
 <td width="33%">
-
 ## Learning
-
+  <span>
+     <img src="">
+  </span>
 </td>
-
+  
 <td width="33%">
-
 ##  Backend
-
+  <span>
+     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  </span>
 </td>
 
 </tr>
@@ -51,24 +56,24 @@
 <tr>
 
 <td width="33%">
-
 ##  Frontend
-
-
+  <span>
+     <img src="">
+  </span>
 </td>
 
 <td width="33%">
-
 ##  CI/CD
-
-
+  <span>
+     <img src="">
+  </span>
 </td>
 
 <td width="33%">
-
 ##  QA
-
-
+  <span>
+     <img src="">
+  </span>
 </td>
 
 </tr>
@@ -76,7 +81,7 @@
 </br>
 </br>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
 <tr>
