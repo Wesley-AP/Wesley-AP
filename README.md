@@ -29,21 +29,21 @@
 <tr>
 
 <td width="33%">
-##  Main
+<h3>Main</h3>
   <span>
      <img src="">
   </span>
 </td>
 
 <td width="33%">
-## Learning
+<h3>Learning</h3>
   <span>
      <img src="">
   </span>
 </td>
   
 <td width="33%">
-##  Backend
+<h3>Backend</h3>
   <br>
   <span>
      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -57,21 +57,22 @@
 <tr>
 
 <td width="33%">
-##  Frontend
+<h3>Frontend</h3>
   <span>
-     <img src="">
+     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   </span>
 </td>
 
 <td width="33%">
-##  CI/CD
+<h3>CI/CD</h3>
   <span>
-     <img src="">
+     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   </span>
 </td>
 
 <td width="33%">
-##  QA
+<h3>QA</h3>
   <span>
      <img src="">
   </span>
