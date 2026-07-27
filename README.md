@@ -28,54 +28,76 @@
 <table width="100%">
 <tr>
 
-<td width="33%">
+<td>
+
 <h3>Main</h3>
-  <span>
-     <img src="">
-  </span>
+
+<div width="100%">
+<img src="https://img.shields.io/badge/Problem_Solving-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System_Thinking-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Clean_Code-black?style=for-the-badge" />
+</div>
+
 </td>
 
-<td width="33%">
+<td>
+
 <h3>Learning</h3>
-  <span>
-     <img src="">
-  </span>
+
+<div width="100%">
+<img src="https://img.shields.io/badge/System_Design-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend_Architecture-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Testing-blue?style=for-the-badge" />
+</div>
+
 </td>
-  
-<td width="33%">
+
+<td>
+
 <h3>Backend</h3>
-  <br>
-  <span>
-     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  </span>
+
+<div width="100%">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+</div>
+
 </td>
 
 </tr>
 
 <tr>
 
-<td width="33%">
+<td>
+
 <h3>Frontend</h3>
-  <span>
-     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  </span>
+
+<div width="100%">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+</div>
+
 </td>
 
-<td width="33%">
+<td>
+
 <h3>CI/CD</h3>
-  <span>
-     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  </span>
+
+<div width="100%">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+</div>
+
 </td>
 
-<td width="33%">
+<td>
+
 <h3>QA</h3>
-  <span>
-     <img src="">
-  </span>
+
+<div width="100%">
+<img src="https://img.shields.io/badge/Manual_Testing-grey?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Test_Cases-grey?style=for-the-badge" />
+</div>
+
 </td>
 
 </tr>
