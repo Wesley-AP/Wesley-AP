@@ -33,7 +33,8 @@
 <h3>Main</h3>
 
 <div width="100%">
-<img src="" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
 </td>
@@ -43,9 +44,10 @@
 <h3>Learning</h3>
 
 <div width="100%">
-<img src="https://img.shields.io/badge/System_Design-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Backend_Architecture-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Testing-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System_Design-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend_Architecture-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Testing-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 </td>
@@ -83,6 +85,7 @@
 
 <div width="100%">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </div>
 
 </td>
