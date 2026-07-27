@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Wesley Paulino  <img src="https://komarev.com/ghpvc/?username=Wesley-AP&color=blue&style=flat-square&label=Profile+Views" align="center" alt="Profile Views" /></h1>
 
-### 💻 Computer Systems Engineering Student | Backend Developer
+### 💻 Computer Systems Engineering | Backend Developer
 *"Building solutions through code, learning through every project."*
 
 <!-- CONTACTOS (Reemplaza los enlaces) -->
