@@ -14,8 +14,8 @@
 
 <!-- ESTADÍSTICAS (Reemplaza YOUR_GITHUB_USERNAME con tu usuario real) -->
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Wesley-AP"/>
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-AP&layout=compact"/>
+<!-- <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Wesley-AP"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-AP&layout=compact"/> -->
 
 </div>
 
@@ -95,7 +95,7 @@
 <h3>QA</h3>
 
 <div width="100%">
-<img src="" />
+<!-- <img src="" /> -->
 </div>
 
 </td>
@@ -116,7 +116,7 @@
 
 A management system designed to handle vehicle rentals, customers, reservations, and business operations.
 
-<img src="https://via.placeholder.com/600x300?text=Rent+Car+System" width="100%" />
+<!-- <img src="https://via.placeholder.com/600x300?text=Rent+Car+System" width="100%" /> -->
 
 🔗 Repository: Coming soon
 
@@ -128,7 +128,7 @@ A management system designed to handle vehicle rentals, customers, reservations,
 
 A system focused on managing restaurant operations, including products, orders, and administrative processes.
 
-<img src="https://via.placeholder.com/600x300?text=Restaurant+System" width="100%" />
+<!-- <img src="https://via.placeholder.com/600x300?text=Restaurant+System" width="100%" /> -->
 
 🔗 Repository: Coming soon
 
@@ -144,7 +144,7 @@ A system focused on managing restaurant operations, including products, orders, 
 
 A property management system to handle tenants, properties, and operational workflows.
 
-<img src="https://via.placeholder.com/600x300?text=Real+Estate+PMS" width="100%" />
+<!-- <img src="https://via.placeholder.com/600x300?text=Real+Estate+PMS" width="100%" /> -->
 
 🔗 Repository: Coming soon
 
@@ -156,7 +156,7 @@ A property management system to handle tenants, properties, and operational work
 
 A system for managing products, stock levels, and supply chain operations.
 
-<img src="https://via.placeholder.com/600x300?text=Inventory+System" width="100%" />
+<!-- <img src="https://via.placeholder.com/600x300?text=Inventory+System" width="100%" /> -->
 
 🔗 Repository: Coming soon
 
