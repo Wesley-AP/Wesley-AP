@@ -23,121 +23,126 @@
 <hr>
 <br>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-<!-- Fila 1 de Cartas -->
-<table align="center" width="100%">
-  <tr>
-    <td width="30%" align="center">
-      <h3>Main <font color="#8a8a8a">Stack</font></h3>
-      <br>
-      JavaScript / TypeScript<br>
-      Python<br>
-      SQL
-    </td>
-    <td width="5%"></td> <!-- Separador -->
-    <td width="30%" align="center">
-      <h3>Learning <font color="#8a8a8a">Tech</font></h3>
-      <br>
-      System Design<br>
-      Cloud Infrastructure<br>
-      Clean Architecture
-    </td>
-    <td width="5%"></td> <!-- Separador -->
-    <td width="30%" align="center">
-      <h3>Backend <font color="#8a8a8a">Dev</font></h3>
-      <br>
-      Node.js / Express<br>
-      PostgreSQL / MySQL<br>
-      Docker
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+
+<td width="33%">
+
+##  Main
+
+</td>
+
+<td width="33%">
+
+## Learning
+
+</td>
+
+<td width="33%">
+
+##  Backend
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%">
+
+##  Frontend
+
+
+</td>
+
+<td width="33%">
+
+##  CI/CD
+
+
+</td>
+
+<td width="33%">
+
+##  QA
+
+
+</td>
+
+</tr>
 </table>
-
-<br>
-
-<!-- Fila 2 de Cartas -->
-<table align="center" width="100%">
-  <tr>
-    <td width="30%" align="center">
-      <h3>Frontend <font color="#8a8a8a">Dev</font></h3>
-      <br>
-      React<br>
-      HTML / CSS<br>
-      Vite
-    </td>
-    <td width="5%"></td> <!-- Separador -->
-    <td width="30%" align="center">
-      <h3>CI/CD <font color="#8a8a8a">Ops</font></h3>
-      <br>
-      Git / GitHub<br>
-      GitHub Actions<br>
-      Linux
-    </td>
-    <td width="5%"></td> <!-- Separador -->
-    <td width="30%" align="center">
-      <h3>QA <font color="#8a8a8a">Testing</font></h3>
-      <br>
-      Jest / Vitest<br>
-      Cypress<br>
-      Postman
-    </td>
-  </tr>
-</table>
-
-<br>
-<hr>
-<br>
+</br>
+</br>
 
 ## 🚀 Featured Projects
 
-<table align="center" width="100%">
-  <tr>
-    <td width="48%" valign="top">
-      <h3>🚗 Rent Car Management</h3>
-      <p>A management system designed to handle vehicle rentals, customers, reservations, and business operations.</p>
-      <div align="center">
-        <!-- Reemplaza el src con el link de la imagen de tu proyecto -->
-        <img src="https://via.placeholder.com/500x250.png?text=Rent+Car+Image+Here" alt="Rent Car Management Interface" width="100%" />
-      </div>
-      <br>
-      <div align="center">
-        <code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Docker</code>
-      </div>
-      <br>
-      <div align="center">
-        <a href="YOUR_REPO_LINK">🔗 Repository</a> | <a href="YOUR_LIVE_LINK">🌐 Live Demo</a>
-      </div>
-    </td>
-    <td width="4%"></td> <!-- Separador para las cartas de proyectos -->
-    <td width="48%" valign="top">
-      <h3>🍽️ Restaurant Management</h3>
-      <p>A system focused on managing restaurant operations, including products, orders, and administrative processes.</p>
-      <div align="center">
-        <!-- Reemplaza el src con el link de la imagen de tu proyecto -->
-        <img src="https://via.placeholder.com/500x250.png?text=Restaurant+Image+Here" alt="Restaurant Management Interface" width="100%" />
-      </div>
-      <br>
-      <div align="center">
-        <code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>PostgreSQL</code>
-      </div>
-      <br>
-      <div align="center">
-        <a href="YOUR_REPO_LINK">🔗 Repository</a> | <a href="YOUR_LIVE_LINK">🌐 Live Demo</a>
-      </div>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+
+<td width="50%">
+
+## 🚗 Rent Car Management System
+
+A management system designed to handle vehicle rentals, customers, reservations, and business operations.
+
+<img src="https://via.placeholder.com/600x300?text=Rent+Car+System" width="100%" />
+
+🔗 Repository: Coming soon
+
+</td>
+
+<td width="50%">
+
+## 🍽️ Restaurant Management System
+
+A system focused on managing restaurant operations, including products, orders, and administrative processes.
+
+<img src="https://via.placeholder.com/600x300?text=Restaurant+System" width="100%" />
+
+🔗 Repository: Coming soon
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🏢 Real Estate PMS
+
+A property management system to handle tenants, properties, and operational workflows.
+
+<img src="https://via.placeholder.com/600x300?text=Real+Estate+PMS" width="100%" />
+
+🔗 Repository: Coming soon
+
+</td>
+
+<td width="50%">
+
+## 📦 Inventory Management System
+
+A system for managing products, stock levels, and supply chain operations.
+
+<img src="https://via.placeholder.com/600x300?text=Inventory+System" width="100%" />
+
+🔗 Repository: Coming soon
+
+</td>
+
+</tr>
+
 </table>
 
-<br>
-<hr>
-<br>
-
 <div align="center">
+</br>
+  
+----
 
-## ⭐ Thanks for visiting! 
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-
+### ⭐ Thanks for visiting! 
 **Always learning. Always building.**
 
 </div>
