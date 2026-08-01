@@ -5,7 +5,7 @@
 ### 💻 Computer Systems Engineering | Backend Developer
 *"Building solutions through code, learning through every project."*
 
-<!-- CONTACTOS (Reemplaza los enlaces) -->
+
 <a href="https://linkedin.com/in/wesley-a-paulino-a29337380"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:wesley.paulino.sys@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
@@ -117,7 +117,7 @@ A management system designed to handle vehicle rentals, customers, reservations,
 > [!NOTE]
 > AI-Free Project
 
-<!-- <img src="https://via.placeholder.com/600x300?text=Rent+Car+System" width="100%" /> -->
+
 
 🔗 Repository: Coming soon
 
@@ -129,7 +129,6 @@ A management system designed to handle vehicle rentals, customers, reservations,
 
 A system focused on managing restaurant operations, including products, orders, and administrative processes.
 
-<!-- <img src="https://via.placeholder.com/600x300?text=Restaurant+System" width="100%" /> -->
 
 🔗 Repository: Coming soon
 
@@ -145,7 +144,7 @@ A system focused on managing restaurant operations, including products, orders, 
 
 A property management system to handle tenants, properties, and operational workflows.
 
-<!-- <img src="https://via.placeholder.com/600x300?text=Real+Estate+PMS" width="100%" /> -->
+
 
 🔗 Repository: Coming soon
 
@@ -157,7 +156,7 @@ A property management system to handle tenants, properties, and operational work
 
 A system for managing products, stock levels, and supply chain operations.
 
-<!-- <img src="https://via.placeholder.com/600x300?text=Inventory+System" width="100%" /> -->
+
 
 🔗 Repository: Coming soon
 
