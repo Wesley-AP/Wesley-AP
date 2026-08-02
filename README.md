@@ -9,15 +9,17 @@
 <a href="https://linkedin.com/in/wesley-a-paulino-a29337380"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:wesley.paulino.sys@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-
-<br><br>
+<br>
 
 
 </div>
 
-<br>
-<hr>
-<br>
+## 🏆 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&pause=1000&color=00F7F6&width=435&lines=Building+scalable+backend+solutions;Designing+databases+with+purpose;Creating+projects+that+solve+problems;+Always+learning.+Always+building.)](https://git.io/typing-svg)
+
+<p>
+  
+</p>
 
 ##  Tech Stack
 
