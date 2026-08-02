@@ -114,11 +114,10 @@
 
 ## 🚗 Rent Car Management System
 
-A management system designed to handle vehicle rentals, customers, reservations, and business operations.
+  A management system designed to handle vehicle rentals, customers, reservations, and business operations.
 
 > [!NOTE]
 > AI-Free Project
-
 
 
 🔗 Repository: Coming soon
