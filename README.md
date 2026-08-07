@@ -21,6 +21,22 @@
   
 </p>
 
+<details>
+  <summary><b>Analytics & Details</b></summary>
+  <br>
+  <div align="center">
+    <a href="https://github.com/Wesley-AP">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wesley-AP&theme=slateorange&animation=rise" 
+        alt="Estadísticas de GitHub"
+      />
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wesley-AP&theme=slateorange&animation=rise" 
+        alt="Detalles de Perfil"
+      />
+    </a>
+</details>
+
 ##  Tech Stack
 
 <table width="100%">
@@ -104,6 +120,7 @@
 </table>
 </br>
 </br>
+
 
 ## Featured Projects
 
